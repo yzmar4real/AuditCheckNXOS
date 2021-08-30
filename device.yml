@@ -1,0 +1,15 @@
+devices:
+  ASSK-DEVICE-01:
+    connections:
+      cli:
+        ip: 10.2.2.4
+        protocol: ssh
+    credentials:
+      default:
+        password: password
+        username: username
+      enable:
+        password: "password"
+    os: "nxos"
+    type: "nxos"
+    alias: spiderman

@@ -1,0 +1,25 @@
+
+
+ ########## RUNNING CONFIGURATION OUTPUT ########################## 
+
+
+ ########### SHOW VERSION OUTPUT ###################### 
+
+
+ ##############SHOW INTERFACE STATUS OUTPUT ########################## 
+
+
+ ##############SHOW IP ARP TABLE OUTPUT ############################# 
+
+
+
+ ##############SHOW CDP NEIGHBOR OUTPUT ############################# 
+
+
+ ##############SHOW MAC ADDRESS TABLE OUTPUT ############################# 
+
+
+ ##############SHOW PORT CHANNEL SUMMARY OUTPUT ############################# 
+
+
+ ##############SHOW IP INT BRIEF OUTPUT ############################# 
